@@ -69,7 +69,7 @@ REMOTE_BASE=/folder-to-sync
 | `USERNAME` | Your Premiumize customer ID or username. | `123456789` |
 | `PASSWORD` | Your Premiumize API PIN or password. | `your_secret_pin` |
 | `LOCAL_BASE` | The absolute path to the local directory where files should be synced. **Must not end with a slash.** | `/mnt/storage/downloads` |
-| `REMOTE_BASE` | The remote directory path on Premiumize to sync from. **Must not end with a slash.** | `/` or `/folder_name` |
+| `REMOTE_BASE` | The remote directory path on Premiumize to sync from. **Must not end with a slash.** | `/folder_name` |
 
 ## Usage
 
